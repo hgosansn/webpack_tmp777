@@ -28,3 +28,10 @@ Default is vanilla could work with any flavour
 > npm run build
 
 Outputs to `./dist` folder
+
+### Github setup actions
+
+For the [workflow](.github/workflows/webpack.yml) to work you need to give it permissions to write
+Go to
+
+> Settings > Actions > General > Workflow permissions > Read and write

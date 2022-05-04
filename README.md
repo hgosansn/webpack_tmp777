@@ -19,6 +19,10 @@ Default is vanilla could work with any flavour
 
  - [ ] Travis CI file - WIP
 
+ - [ ] Babel ?
+
+ - [ ] React / Vue additions
+
 ### Clone and start with 
 
 > npm start

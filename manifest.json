@@ -1,0 +1,6 @@
+{
+  "main.js": "/bundle.js",
+  "assets/repository-template.png": "/assets/repository-template.png",
+  "index.html": "/index.html",
+  "assets/sources.txt": "/assets/sources.txt"
+}

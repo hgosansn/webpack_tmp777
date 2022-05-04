@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack --watch --config ./webpack.config.js --progress --mode development",
-    "build": "rm -rf ./dist && webpack --config ./webpack.prod.js"
+    "build": "rm -rf ./dist && webpack --config ./webpack.prod.js",
+    "clean": "rm -rf ./node_modules && rm -f package-lock.json && npm i"
   },
   "keywords": [],
   "devDependencies": {
@@ -33,9 +34,5 @@
     "webpack-merge": "^4.1.0",
     "xml-loader": "^1.2.1"
   },
-  "dependencies": {
-    "lodash": "^4.17.21",
-    "node": "^17.7.2",
-    "three": "^0.139.2"
-  }
+  "dependencies": {}
 }

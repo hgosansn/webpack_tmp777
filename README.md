@@ -1,4 +1,6 @@
-# Webpack template for github 
+# Webpack template for github
+
+![logo](src/assets/repository-template.png)
 
 ![Latest Build status](https://github.com/hgosansn/webpack_tmp777/actions/workflows/webpack.yml/badge.svg)
 
@@ -39,3 +41,5 @@ For the [workflow](.github/workflows/webpack.yml) to work you need to give it pe
 Go to
 
 > Settings > Actions > General > Workflow permissions > Read and write
+
+

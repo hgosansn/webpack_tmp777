@@ -31,8 +31,8 @@ jobs:
         git config --global user.name "Github_Action"
         
         git fetch
-        git checkout release
-        
+        git checkout -B release
+
         cp -rf ./dist/* .
 
         git rm -r --cached .

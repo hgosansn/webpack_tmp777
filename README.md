@@ -15,7 +15,7 @@ Default is vanilla could work with any flavour
 
  - [x] Sass enabled [Guide here](https://sass-lang.com/guide)
 
-       Familiar with [Block Element Modifier](http://getbem.com/)
+    Familiar with [Block Element Modifier](http://getbem.com/)
 
  - [ ] Travis CI file - WIP
 

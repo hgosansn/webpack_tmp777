@@ -4,7 +4,8 @@
 
 ![Latest Build status](https://github.com/hgosansn/webpack_tmp777/actions/workflows/webpack.yml/badge.svg)
 
-For any javascript ++ endeavours
+For any javascript endeavours
+
 Default is vanilla could work with any flavour
 
 ## A feature rich repo
@@ -41,5 +42,4 @@ For the [workflow](.github/workflows/webpack.yml) to work you need to give it pe
 Go to
 
 > Settings > Actions > General > Workflow permissions > Read and write
-
 

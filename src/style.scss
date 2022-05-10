@@ -10,19 +10,14 @@ body {
   background-size: cover;
 }
 
+*:focus {
+  outline: none;
+}
+
 * {
   box-sizing: border-box;
   a, a:visited, a:active {
     text-decoration: none;
     color: var(--accent);
   }
-  a {
-    & i{
-      color: var(--foreground);
-    }
-  }
-  *:focus {
-    outline: none;
-  }
-  
 }

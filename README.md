@@ -1,4 +1,4 @@
-# Webpack template for github
+# [Outdated 2022] Webpack template for github
 
 ![logo](src/assets/repository-template.png)
 
@@ -19,12 +19,6 @@ Default is vanilla could work with any flavour
  - [x] Sass enabled [Guide here](https://sass-lang.com/guide)
 
     Familiar with [Block Element Modifier](http://getbem.com/)
-
- - [ ] Travis CI file - WIP
-
- - [ ] Babel ?
-
- - [ ] React / Vue additions
 
 ### Clone and start with 
 
